@@ -1,0 +1,10 @@
+Bad
+Correct
+Good
+Good Bye
+Hello
+Name
+No
+Please
+Thanks
+Yes

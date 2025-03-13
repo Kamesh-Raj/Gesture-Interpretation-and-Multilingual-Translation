@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Large data files
+*.npy
+*.h5
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env 

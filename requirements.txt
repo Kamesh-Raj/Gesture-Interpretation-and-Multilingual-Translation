@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+mediapipe
+cvzone
+scikit-learn
+tensorflow
+Flask
+googletrans==4.0.0-rc1
